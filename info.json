@@ -1,0 +1,9 @@
+{
+    "name": "dummy-items-mod",
+    "version": "0.1.0",
+    "title": "Dummy Items Mod",
+    "author": "Federico Meza",
+    "description": "Adds dummy items that are always available, free to craft, and crafted instantly.",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+}
